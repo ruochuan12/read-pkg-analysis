@@ -3,7 +3,7 @@ highlight: darcula
 theme: smartblue
 ---
 
-# 从 vue-cli 源码中，我发现了27行读取 package.json 的 npm 包
+# 从 vue-cli 源码中，我发现27行读取 json 文件有趣的 npm 包
 ## 1. 前言
 
 >大家好，我是[若川](https://lxchuan12.gitee.io)。**为了能帮助到更多对源码感兴趣、想学会看源码、提升自己前端技术能力的同学**。我倾力组织了[源码共读活动](https://www.yuque.com/ruochuan12/topics/1)，感兴趣的可以加我微信 [ruochuan12](https://juejin.cn/pin/7005372623400435725) 参与，或者关注我的[公众号若川视野](https://lxchuan12.gitee.io)，回复“源码”参与。已进行4个月，每周大家一起学习200行左右的源码，共同进步，很多人都表示收获颇丰。
